@@ -1,0 +1,1 @@
+Add a test case to verify the behavior of the `updateRatingScale` method when the rating scale is not found.
